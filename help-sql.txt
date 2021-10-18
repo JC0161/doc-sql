@@ -2,3 +2,4 @@ CREATE TABLE  <tabela>: Cria uma tabela
 DELETE FROM <tabela> where <condição>: Exclui dados de um banco de dados
 DROP TABLE   <tabela>: Apaga uma tabela especifíca
 SELECT  <nome de um campo ou *>:  Extrai dados de um banco de dados
+UPDATE : Atualiza dados em um banco de dados
